@@ -62,7 +62,7 @@ These conditions ensure that A* explores the state space in an efficient manner,
 
 ## Usage
 
-To use the 8-puzzle solver, modify the `main` function in `8PuzzleSolver.cpp` with your desired initial state, and run the program. The solution path and its length will be displayed.
+To use the 8-puzzle solver, modify the `main` function in `PuzzleSolver.cpp` with your desired initial state, and run the program. The solution path and its length will be displayed.
 
 ```cpp
 int main() {
